@@ -156,6 +156,5 @@ This project is intended for educational and research purposes to develop practi
 
 **Designed to Explore | Simulated to Analyze | Verified to Validate**
 
-### ⚡ Op-Amp Circuit Design Using Cadence Virtuoso
 
 </p>
